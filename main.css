@@ -1,0 +1,78 @@
+#enter {
+   
+}
+
+.row {
+    /* padding: 30px;  */
+}
+/***********MAIN PAGE****************************/
+.foot1 {
+    color: #000; 
+    display: inline-block;
+}
+
+i {
+    margin: 20px; 
+    /* margin-right: 10px;  */
+}
+
+.sec2 {
+    padding-top: 0; 
+    /* border: #fff solid 2px; */
+     
+    background-color: #fff;
+    color: #000; 
+    /* height: 100%; */
+   /* padding: 0; */
+   height:auto; 
+     /* height: 100%; */
+}
+
+.sec1 {
+    padding-top: 10px; 
+    height:400px; 
+    background-image: hide; 
+    /* background-image:url("http://i67.tinypic.com/303k429.jpg");   */
+    object-fit: contain; 
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    background-repeat: no-repeat; 
+  
+}
+
+ img {
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+   
+   /* position:fixed;  */
+    /* object-fit: contain;  */
+    /* max-width: 100%;
+    max-height: 100%;  */
+}
+
+.mainPageHead {
+    padding-top: 20PX;
+    padding-bottom: 10PX; 
+    font-family: 'Raleway', sans-serif; 
+    font-size: 30px; 
+}
+
+.mainPageHead2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px; 
+    margin-bottom: 0; 
+}
+
+.quote {
+    font-family: 'Alex Brush', cursive;
+    font-size: 20px; 
+    padding-bottom: 10px; 
+}
+
+.btn {
+   display: block;
+   margin: 0 auto; 
+   padding: 25px 25px; 
+   margin-bottom: 15px; 
+
+}

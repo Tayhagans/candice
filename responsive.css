@@ -1,0 +1,95 @@
+/************iphone 7 and 8 plus ************************/
+
+@media only screen 
+and (min-width: 414px)
+and (max-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait){
+
+    
+
+}
+
+
+/* ***********Breakpoint From Phone To Desktops ***********************
+
+@media screen and (min-width: 769px){
+
+
+} */
+
+/*******************iMAC PRO LAPTOP *******************************/
+
+@media screen and (min-width: 1025px){
+   
+    i {
+        margin: 20px; 
+        /* margin-right: 10px;  */
+    }
+    
+    .sec2 {
+        padding-top: 50px; 
+        /* border: #fff solid 2px; */
+        border: #0abab5 solid 1px; 
+        background-color: #000;
+        color: #fff; 
+        /* height: 100%; */
+       /* padding: 0; */
+       height:100%; 
+         /* height: 100%; */
+    }
+    
+    .sec1 {
+        height:100%; 
+        background-image:url("http://i64.tinypic.com/2zrkles.png");  
+        object-fit: contain; 
+        -webkit-filter: grayscale(100%); 
+        filter: grayscale(100%);
+        background-repeat: no-repeat; 
+      
+    }
+    
+     img {
+        -webkit-filter: grayscale(100%); 
+        filter: grayscale(100%);
+       
+       /* position:fixed;  */
+        object-fit: contain; 
+        display: none; 
+        /* max-width: 100%;
+        max-height: 100%;  */
+    }
+    
+    .mainPageHead {
+        padding-top: 130PX;
+        padding-bottom: 10PX; 
+        font-family: 'Raleway', sans-serif; 
+        font-size: 50px; 
+    }
+    
+   
+    .quote {
+        font-size: 25px; 
+        padding-bottom: 10px; 
+    }
+    
+    .btn {
+       display: block;
+       margin: 0 auto; 
+       padding: 32px 32px; 
+       margin-bottom: 15px; 
+    
+    }
+
+    .foot1 {
+        color: #fff; 
+        
+    }
+
+}
+
+/*******************DESK TOP *******************************/
+
+@media screen and (min-width: 1281px){
+
+}
