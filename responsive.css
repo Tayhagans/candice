@@ -105,6 +105,7 @@ and (orientation: portrait){
     
     .sec1 {
         height:100%; 
+        background-image:url("http://i68.tinypic.com/2drgwp1.jpg"); 
       
     }
     
@@ -115,6 +116,7 @@ and (orientation: portrait){
         padding-bottom: 10PX; 
         font-family: 'Raleway', sans-serif; 
         font-size: 50px; 
+        color: #0abab5; 
     }
     
    
