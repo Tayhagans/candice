@@ -22,7 +22,9 @@ and (orientation: portrait){
 
 @media screen and (min-width: 1025px){
    
-    i {
+    /***************ENTER PAGE*****************************/
+    
+   i {
         margin: 20px; 
         /* margin-right: 10px;  */
     }
@@ -54,10 +56,14 @@ and (orientation: portrait){
         filter: grayscale(100%);
        
        /* position:fixed;  */
-        object-fit: contain; 
-        display: none; 
+        /* object-fit: contain;  */
+        /* display: none;  */
         /* max-width: 100%;
         max-height: 100%;  */
+    }
+
+    .enterimg {
+        display: none; 
     }
     
     .mainPageHead {
@@ -67,9 +73,6 @@ and (orientation: portrait){
         font-size: 50px; 
     }
 
-    .mainPageHead2 {
-        color: #0abab5; 
-    }
     
    
     .quote {
@@ -89,6 +92,51 @@ and (orientation: portrait){
         color: #000; 
         
     }
+/***************SECTION1*****************************/
+
+.aboutMe {
+    padding-bottom: 45PX;  
+    
+}
+
+.about-photo {
+   width: 600px;
+   height: 590px;
+}
+
+
+    .fancy {
+        line-height: 0.5;
+        text-align: center; 
+    }
+    
+    .fancy span {
+        display: inline-block;
+        position: relative;
+    }
+    
+    .fancy span:before,
+    .fancy span:after {
+        content: ""; 
+        position: absolute; 
+        height: 5px;
+        border-bottom: 1px solid lightgray; 
+        border-top: 1px solid lightgray;
+        top: 0; 
+        width: 200px; 
+        margin-top: 10px; 
+    }
+    
+    .fancy span:before {
+        right: 100%; 
+        margin-right: 15px; 
+    }
+    
+    .fancy span:after {
+        left: 100%; 
+        margin-left: 15px; 
+    }
+    
 
 }
 
