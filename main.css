@@ -26,7 +26,7 @@ i {
 
 .sec1 {
     padding-top: 10px; 
-    height:400px; 
+    height:370px; 
     background-image: hide; 
     /* background-image:url("http://i67.tinypic.com/303k429.jpg");   */
     object-fit: contain; 
@@ -47,7 +47,7 @@ i {
 }
 
 .mainPageHead {
-    padding-top: 20PX;
+    padding-top: 10;
     padding-bottom: 10PX; 
     font-family: 'Raleway', sans-serif; 
     font-size: 30px; 
