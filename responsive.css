@@ -43,7 +43,7 @@ and (orientation: portrait){
     
     .sec1 {
         height:100%; 
-        background-image:url("cpa3.png");  
+        background-image:url("ca1.png");  
         object-fit: contain; 
         -webkit-filter: grayscale(100%); 
         filter: grayscale(100%);
@@ -159,7 +159,7 @@ and (orientation: portrait){
     
     .sec1 {
         
-        background-image:url("cpa3.png"); 
+        background-image:url("ca1.png"); 
       
     }
     
