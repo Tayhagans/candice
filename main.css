@@ -112,8 +112,8 @@ i {
 /*************SECTION 2**********************/
 
 #section2 {
-    height: 300px;
+    height: auto;
     padding-top: 70px;
     padding-bottom: 70px; 
-    background-color: lightgrey; 
+    background-color: #fff; 
 }
