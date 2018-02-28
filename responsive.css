@@ -159,7 +159,7 @@ and (orientation: portrait){
     
     .sec1 {
         
-        background-image:url("ca11.png"); 
+        background-image:url("cap512.png"); 
       
     }
     
@@ -194,6 +194,10 @@ and (orientation: portrait){
     .about-photo {
         width: 832px;
         height: 690px;
+     }
+
+     .aboutp {
+         padding-top: 40px; 
      }
 
 
