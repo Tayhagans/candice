@@ -73,6 +73,9 @@
    height: 590px;
 }
 
+p {
+    text-align: justify;  
+ }  
 /*******************DESK TOP *******************************/
 
 @media screen and (min-width: 1281px){
