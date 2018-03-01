@@ -78,62 +78,13 @@ i {
 }
 
 .btn {
-   display: block;
-   margin: 0 auto; 
+   /* display: block;
+   margin: 0 auto;  */
    padding: 25px 25px; 
    margin-bottom: 15px; 
 
 }
 
-/*************NAV BAR**********************/
-
-.navbar-brand {
-    color: #0abab5!important; 
-}
-
-/*************SECTION 1**********************/
-
-
-
-#section1 {
-    height:auto; 
-    padding-top: 70px;
-    padding-bottom: 70px; 
-    background-color: #fff; 
-    
-}
-
-.aboutMe {
-    font-family: 'Raleway', sans-serif; 
-    letter-spacing: 7px;
-    padding-top: 20px;   
-    padding-bottom: 20PX;  
-    margin-bottom: 0;
-}
-
-
-.about-photo {
-    width:400px;
-    height:350px;
-    padding-bottom: 20px; 
-      
-}
-
-p {
-    text-align: justify;  
-}
-
-
-/*************SECTION 2**********************/
-
-#section2 {
-    height: auto;
-    padding-top: 70px;
-    padding-bottom: 70px; 
-    background-color: #fff; 
-}
-
-
 
 /*************NAV BAR**********************/
 
@@ -169,9 +120,7 @@ p {
       
 }
 
-p {
-    text-align: justify; 
-}
+
 
 
 /*************SECTION 2**********************/
