@@ -150,6 +150,10 @@ ul li {
     text-align: center; 
 }
 
+.teachingsub {
+    font-size: 14px; 
+}
+
 .education {
     background-color: whitesmoke; 
     padding: 4px; 
