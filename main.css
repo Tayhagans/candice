@@ -99,7 +99,7 @@ i {
 #section1 {
     height:auto; 
     padding-top: 70px;
-    padding-bottom: 70px; 
+    padding-bottom: 20px; 
     background-color: #fff; 
     
 }
@@ -129,9 +129,49 @@ p {
 
 /*************SECTION 2**********************/
 
+ul li {
+    margin-right: 10px; 
+}
+
 #section2 {
     height: auto;
-    padding-top: 70px;
+    padding-top: 5px;
     padding-bottom: 70px; 
     background-color: #fff; 
 }
+
+.resume-headings {
+    font-size: 14px; 
+    text-align: center;
+}
+
+.resume-font {
+    font-size: 14px; 
+    text-align: center; 
+}
+
+.education {
+    background-color: whitesmoke; 
+    padding: 4px; 
+    padding-left: 0;
+    letter-spacing: 5px;  
+    text-align: center!important; 
+}
+
+.educationsub {
+    padding-left: 0; 
+    display : inline-block;
+    padding-right: 0; 
+}
+
+.educationsub p {
+    margin-bottom: 2px; 
+}
+
+.underline {
+  display: hide; 
+}
+
+
+    
+

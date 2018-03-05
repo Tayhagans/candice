@@ -1,3 +1,7 @@
+
+/*LABTOP*/
+/*********************ENTER PAGE***********************/
+
 @media screen and (min-width: 1025px){
 
     .row1 {
@@ -63,6 +67,8 @@
     
 }
 
+/*******************SECTION 1*******************************/
+
 .aboutMe {
     padding-bottom: 45PX;  
     
@@ -76,6 +82,55 @@
 p {
     text-align: justify;  
  }  
+
+/*******************SECTION 2*******************************/
+
+.resume-headings {
+    font-size: 14px; 
+}
+
+.resume-font {
+    font-size: 14px; 
+    text-align: left; 
+}
+
+.education {
+    background-color: whitesmoke; 
+    padding: 6px; 
+    padding-left: 0;
+    letter-spacing: 5px;  
+}
+
+.educationsub {
+    padding-left: 0; 
+    display : inline-block;
+    padding-right: 0; 
+}
+
+.educationsub p br {
+    display: none; 
+}
+.educationsub p {
+    margin-bottom: 2px; 
+}
+
+.underline {
+   border-bottom: 2px dotted gray; 
+}
+
+.edright {
+    float:right;
+    
+}
+
+.teachingsub {
+    text-align: left!important; 
+}
+
+ul li {
+    margin-right: 0; 
+}
+
 /*******************DESK TOP *******************************/
 
 @media screen and (min-width: 1281px){
