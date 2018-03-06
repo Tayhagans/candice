@@ -1,14 +1,11 @@
+/*BREAKPONT FROM MOBILE TO LABTOP*/
 
-/*LABTOP*/
-/*********************ENTER PAGE***********************/
-
-@media screen and (min-width: 1025px){
+@media screen and (min-width: 769px){
 
     .row1 {
         display: flex; 
         flex-direction: row-reverse;
         
-          
     }
 
     .sec2 {
@@ -71,23 +68,248 @@
 
 /*******************SECTION 1*******************************/
 
+#section1 {
+    height:auto;  
+    padding-top: 70px;
+    padding-bottom: 20px; 
+    background-color: #fff; 
+    
+}
+
 .aboutMe {
-    padding-bottom: 45PX;  
+    padding-bottom: 15PX;  
     
 }
 
 .about-photo {
-    width: 500px; 
-    height: 600px;
+
+    float: right; 
+    width: 435px;
+    height: 600px; 
+    padding-left: 10px; 
+    /* width: 750px; 
+    height: 600px; */
+    
    /* width: 600px;
    height: 590px; */
 } 
+
+.aboutp {
+    margin-left: 0;
+    margin-right: 0; 
+}
+
+#section1 p {
+    /* font-size: 14px;  */
+    float: none; 
+}
 
 p {
     text-align: justify;  
  }  
 
+ .biosectionpic {
+     
+    margin-left: 0; 
+    margin-right: 0; 
+}
+
+.row2 {
+    margin-left: 200px; 
+    margin-right: 210px;        
+   }
+
+   
+
 /*******************SECTION 2*******************************/
+
+
+
+
+#section2 {
+    padding-top: 75px;
+ 
+}
+
+.resume-headings {
+    font-size: 14px; 
+}
+
+.resume-font {
+    font-size: 14px; 
+    text-align: left; 
+}
+
+.education {
+    background-color: whitesmoke; 
+    padding: 6px; 
+    padding-left: 0;
+    letter-spacing: 5px; 
+    text-align: left!important;  
+}
+
+.educationsub {
+    padding-left: 0; 
+    display : inline-block;
+    padding-right: 0; 
+}
+
+.educationsub p br {
+    display: none; 
+}
+.educationsub p {
+    margin-bottom: 2px; 
+}
+
+.underline {
+   border-bottom: 2px dotted gray; 
+}
+
+.edright {
+    float:right;
+    
+}
+
+.teachingsub {
+    text-align: left!important; 
+    font-size: 14px; 
+}
+
+ul li {
+    margin-right: 0; 
+}
+
+} 
+
+
+/*imacproLABTOP*/
+/*********************ENTER PAGE***********************/
+
+@media screen and (min-width: 1025px){
+
+    .row1 {
+        display: flex; 
+        flex-direction: row-reverse;
+        
+    }
+
+    .sec2 {
+    height:726px; 
+     background-image:url("biopic.png");  
+    /* background-image:url("http://i65.tinypic.com/2hridd1.png");   */
+    object-fit: contain; 
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    background-repeat: no-repeat; 
+    justify-content: flex-end; 
+    flex: 1; 
+}
+
+
+.ap {
+    display: none; 
+}
+
+.sec1 {
+    padding-top: 50px; 
+    /* border: #fff solid 2px; */
+    border: #0abab5 solid 2px; 
+    background-color: #fff;
+    color: #000; 
+    /* height: 100%; */
+   /* padding: 0; */
+   /* height:auto; */
+   flex: 1;  
+     /* height: 100%; */
+}
+
+.mainPageHead {
+    padding-top: 130PX;
+    padding-bottom: 10PX; 
+    font-family: 'Raleway', sans-serif; 
+    font-size: 50px; 
+}
+
+
+
+.quote {
+    font-size: 23px; 
+    padding-bottom: 10px; 
+}
+
+.btn {
+   display: block;
+   margin: 0 auto; 
+   padding: 32px 32px; 
+   margin-bottom: 15px; 
+ 
+
+}
+
+.foot1 {
+    color: #000; 
+    
+}
+
+/*******************SECTION 1*******************************/
+
+#section1 {
+    height:auto;  
+    padding-top: 70px;
+    padding-bottom: 20px; 
+    background-color: #fff; 
+    
+}
+
+.aboutMe {
+    padding-bottom: 15PX;  
+    
+}
+
+.about-photo {
+
+    float: right; 
+    width: 435px;
+    height: 600px; 
+    padding-left: 10px; 
+    /* width: 750px; 
+    height: 600px; */
+    
+   /* width: 600px;
+   height: 590px; */
+} 
+
+.aboutp {
+    margin-left: 0;
+    margin-right: 0; 
+}
+
+#section1 p {
+    /* font-size: 14px;  */
+    float: none; 
+}
+
+p {
+    text-align: justify;  
+ }  
+
+ .biosectionpic {
+     
+    margin-left: 0; 
+    margin-right: 0; 
+}
+
+.row2 {
+    margin-left: 200px; 
+    margin-right: 210px;        
+   }
+
+   
+
+/*******************SECTION 2*******************************/
+
+
+
 
 #section2 {
     padding-top: 75px;
