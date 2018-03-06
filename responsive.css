@@ -13,7 +13,8 @@
 
     .sec2 {
     height:726px; 
-    background-image:url("http://i65.tinypic.com/2hridd1.png");  
+     background-image:url("biopic.png");  
+    /* background-image:url("http://i65.tinypic.com/2hridd1.png");   */
     object-fit: contain; 
     -webkit-filter: grayscale(100%); 
     filter: grayscale(100%);
@@ -21,6 +22,7 @@
     justify-content: flex-end; 
     flex: 1; 
 }
+
 
 .ap {
     display: none; 
@@ -75,9 +77,11 @@
 }
 
 .about-photo {
-   width: 600px;
-   height: 590px;
-}
+    width: 500px; 
+    height: 600px;
+   /* width: 600px;
+   height: 590px; */
+} 
 
 p {
     text-align: justify;  
