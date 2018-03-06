@@ -85,6 +85,11 @@ p {
 
 /*******************SECTION 2*******************************/
 
+#section2 {
+    padding-top: 75px;
+ 
+}
+
 .resume-headings {
     font-size: 14px; 
 }
