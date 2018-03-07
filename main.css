@@ -235,6 +235,17 @@ ul li {
   display: hide; 
 }
 
+/****FOOTER****/
+
+.panel-footer {
+    background-color: #d3d3d3; 
+    font-size: smaller; 
+}
+
+.tiffany {
+    color: #0abab5; 
+}
+
 
     
 
