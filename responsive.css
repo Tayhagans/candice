@@ -422,6 +422,11 @@ ul li {
     
     /*******************SECTION 1 *******************************/
 
+    .row1 {
+        margin-left: 200px; 
+        margin-right: 210px;        
+       }
+
     .row2 {
         margin-left: 510px; 
         margin-right: 520px;        
@@ -435,6 +440,8 @@ ul li {
        padding-bottom: 30px; 
        font-size: 55px; 
    }
+
+
 
 
 }
