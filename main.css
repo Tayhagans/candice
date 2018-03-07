@@ -140,7 +140,50 @@ p {
     margin-right: -25px;  
 }
 
+hr {
+    display: block; 
+       margin-top: 0.5em; 
+       margin-bottom: 0.5em; 
+       margin-left: auto; 
+       margin-right: auto; 
+       border-style: inset; 
+       border-width: 1px; 
+       border-color:#0abab5;
+}
 
+
+.hr1 {
+    margin-top: 80px; 
+    display: block; 
+    margin-bottom: 16px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    border-style: inset; 
+    border-width: 1px; 
+    border-color:#0abab5; 
+
+}
+
+.hr2 {
+    margin-top: 80px; 
+    display: block; 
+    margin-bottom: 16px; 
+    margin-left: 55px; 
+    margin-right: 55px; 
+    border-style: inset; 
+    border-width: 1px; 
+    border-color:#0abab5; 
+    
+    
+}
+
+.hr3 {
+   
+    margin-left: 55px; 
+    margin-right: 55px; 
+    
+
+}
 
 
 /*************SECTION 2**********************/

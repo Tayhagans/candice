@@ -102,6 +102,7 @@
 #section1 p {
     /* font-size: 14px;  */
     float: none; 
+    text-align: right;   
 }
 
 p {
@@ -118,6 +119,47 @@ p {
     margin-left: 200px; 
     margin-right: 210px;        
    }
+
+   hr {
+       display: block; 
+       margin-top: 0.5em; 
+       margin-bottom: 0.5em; 
+       margin-left: 340px; 
+       margin-right: 340px; 
+       border-style: inset; 
+       border-width: 1px; 
+       border-color:#0abab5; 
+   }
+
+   .hr1 {
+       margin-top: 80px; 
+       display: block; 
+       margin-bottom: 16px; 
+       margin-left: 340px; 
+       margin-right: 340px; 
+       border-style: inset; 
+       border-width: 1px; 
+       border-color:#0abab5; 
+
+   }
+
+   .hr2 {
+    margin-top: 80px; 
+    display: block; 
+    margin-bottom: 16px; 
+    border-style: inset; 
+    margin-left: 460px; 
+    margin-right: 460px; 
+    
+}
+
+.hr3 {
+   
+    margin-left: 460px; 
+    margin-right: 460px; 
+    
+
+}
 
    
 
@@ -177,6 +219,10 @@ p {
 
 ul li {
     margin-right: 0; 
+}
+
+.hr {
+    border-top: 3px double lightgrey; 
 }
 
 } 
