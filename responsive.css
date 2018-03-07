@@ -428,7 +428,11 @@ ul li {
        }
 
    #section1 {
-    background-color:#fff; 
+    background-color:gray; 
+   }
+
+   .aboutMe {
+       padding-bottom: 30px; 
    }
 
 
