@@ -414,63 +414,21 @@ ul li {
 
 /*******************DESK TOP *******************************/
 
-/* @media screen and (min-width: 1281px){ */
+ @media screen and (min-width: 1281px){ 
 
    
     /*******************ENTER PAGE *******************************/
     
     
-    /* .sec2 {
-        padding-top: 200px;  */
-        /* border: #fff solid 2px; */
-        /* height: 100%; */
-       /* padding: 0; */
-       
-         /* height: 100%; */
-    }
-    
-    /* .sec1 {
-        
-        background-image:url("cpa512.png"); 
-      
-    } */
-    
-   
-/*     
-    .mainPageHead {
-        padding-top: 120PX;
-        padding-bottom: 20PX; 
-        font-family: 'Raleway', sans-serif; 
-        font-size: 55px; 
-         */
-        
-         
-    }
-    
-   
-    /* .quote {
-        font-size: 25px; 
-        padding-bottom: 10px; 
-    }
-    
-    .btn {
-       display: block;
-       margin: 0 auto; 
-       padding: 32px 32px; 
-       margin-bottom: 15px; 
-    
-    } */
-
     /*******************SECTION 1 *******************************/
 
-    /* .about-photo {
-        width: 832px;
-        height: 690px;
-     }
+    .row2 {
+        margin-left: 300px; 
+        margin-right: 310px;        
+       }
 
-     .aboutp {
-         padding-top: 40px; 
-     }
-
-
-} */
+   #section1 {
+    background-color: gray; 
+   }
+    
+    }
