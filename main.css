@@ -144,8 +144,8 @@ hr {
     display: block; 
        margin-top: 0.5em; 
        margin-bottom: 0.5em; 
-       margin-left: auto; 
-       margin-right: auto; 
+       margin-left: 80px; 
+       margin-right: 80px; 
        border-style: inset; 
        border-width: 1px; 
        border-color:#0abab5;
@@ -156,8 +156,8 @@ hr {
     margin-top: 80px; 
     display: block; 
     margin-bottom: 16px; 
-    margin-left: auto; 
-    margin-right: auto; 
+    margin-left: 80px; 
+    margin-right: 80px; 
     border-style: inset; 
     border-width: 1px; 
     border-color:#0abab5; 
