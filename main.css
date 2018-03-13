@@ -323,3 +323,13 @@ blockquote {
 }
      */
 
+ /**********CONTACT PAGE****************/    
+
+ .contact-head {
+     padding-top: 100px;
+     font-size: small;  
+ }
+
+ .form-submit {
+     margin-bottom: 0; 
+ }

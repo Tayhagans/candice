@@ -297,6 +297,13 @@ blockquote {
     font-family: 'Alex Brush', cursive; 
 }
 
+/**********CONTACT PAGE****************/    
+
+.contact-head {
+    padding-top: 120px; 
+    font-size: medium; 
+}
+
 
 } 
 
