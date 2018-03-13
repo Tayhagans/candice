@@ -331,5 +331,12 @@ blockquote {
  }
 
  .form-submit {
-     margin-bottom: 0; 
+     margin-bottom: 0;
+     border: 10px solid #0abab5; 
+     border-image-source: linear-gradient(lightgrey, #0abab5, lightgrey); 
+     border-image-slice: 30; 
+ }
+
+ .form-group label {
+     color: #0abab5; 
  }
