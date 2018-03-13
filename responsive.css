@@ -5,11 +5,12 @@
     .row1 {
         display: flex; 
         flex-direction: row-reverse;
+        border: #0abab5 solid 3px; 
         
     }
 
     .sec2 {
-    height:726px; 
+    height:721px; 
      background-image:url("biopic.png");  
     /* background-image:url("http://i65.tinypic.com/2hridd1.png");   */
     object-fit: contain; 
@@ -28,7 +29,7 @@
 .sec1 {
     padding-top: 50px; 
     /* border: #fff solid 2px; */
-    border: #0abab5 solid 2px; 
+    /* border: #0abab5 solid 2px;  */
     background-color: #fff;
     color: #000; 
     /* height: 100%; */
@@ -64,6 +65,12 @@
 .foot1 {
     color: #000; 
     
+}
+
+/******************NAV*******************************/
+
+nav {
+    border-bottom: 1px solid #0abab5; 
 }
 
 /*******************SECTION 1*******************************/
@@ -325,7 +332,7 @@ blockquote {
     }
 
     .sec2 {
-    height:726px; 
+    /* height:726px;  */
      background-image:url("biopic.png");  
     /* background-image:url("http://i65.tinypic.com/2hridd1.png");   */
     object-fit: contain; 
@@ -344,7 +351,7 @@ blockquote {
 .sec1 {
     padding-top: 50px; 
     /* border: #fff solid 2px; */
-    border: #0abab5 solid 2px; 
+    /* border: #0abab5 solid 2px;  */
     background-color: #fff;
     color: #000; 
     /* height: 100%; */

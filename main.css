@@ -292,6 +292,7 @@ ul li {
     margin: auto; 
     -webkit-filter: none; 
     filter: none;
+    
 }
 
  .blog-nav {
@@ -356,3 +357,12 @@ blockquote {
  .form-group label {
      color: #0abab5; 
  }
+
+ .alert{
+    text-align: center; 
+    padding: 10px; 
+    background-color:lightgray; 
+    color: white;
+    margin-bottom: 10px; 
+    display: none; 
+} 

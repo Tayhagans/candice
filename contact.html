@@ -48,7 +48,9 @@
 
         <div class="col-sm-2"></div> 
         <div class="col-sm-8">
+                
                 <h6 class="text-center contact-head">Please feel free to contact me with any business inquiries or questions you may have.</h6>
+                <div class="alert">Your message has been sent</div>
                 <form id="contactForm">
                     <div class="form-group">
                       <label for="name">Name:</label>
@@ -56,11 +58,11 @@
                     </div>
                     <div class="form-group">
                       <label for="email">Email Address:</label>
-                      <input type="email" class="form-control" id="email" required placeholder="E-mail">
+                      <input type="email" class="form-control" id="email" required placeholder="Email">
                     </div>
                     <div class="form-group">
-                      <label for="subject">Subject:</label>
-                      <input type="subject" class="form-control" id="subject" placeholder="Subject">
+                      <label for="tel">Phone Number:</label>
+                      <input type="tel" class="form-control" id="tel" placeholder="Phone Number">
                     </div>
                     <div class="form-group">
                         <label for="comment">Message:</label>
@@ -96,6 +98,7 @@
           </div>
         </div>
 
-
+        <script src="https://www.gstatic.com/firebasejs/4.9.1/firebase.js"></script>
+        <script src="main.js"></script>
 </body>
 </html>
