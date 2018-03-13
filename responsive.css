@@ -126,6 +126,11 @@ p {
     margin-right: 0; 
 }
 
+.resume-btn {
+    margin-top: 80px!important; 
+}
+
+
 .row2 {
     margin-left: 200px; 
     margin-right: 210px;        
@@ -195,6 +200,7 @@ p {
 
 .education {
     background-color: whitesmoke; 
+    margin-top: 65px; 
     padding: 6px; 
     padding-left: 0;
     letter-spacing: 5px; 

@@ -94,11 +94,12 @@ i {
 
 /*************NAV BAR**********************/
 nav {
-    border-bottom: 2px solid #0abab5; 
+    border-bottom: 1px solid #0abab5; 
 }
 
 .navbar-brand {
     color: #0abab5!important; 
+    font-weight: bolder; 
 }
 
 /*************SECTION 1**********************/
@@ -141,6 +142,10 @@ p {
 .aboutp {
     margin-left: -25px; 
     margin-right: -25px;  
+}
+
+.resume-btn {
+    margin-top: 80px; 
 }
 
 hr {
@@ -198,7 +203,7 @@ ul li {
 #section2 {
     height: auto;
     padding-top: 65px;
-    padding-bottom: 70px; 
+    padding-bottom: 0; 
     background-color: #fff; 
 }
 
@@ -222,6 +227,7 @@ ul li {
     padding-left: 0;
     letter-spacing: 5px;  
     text-align: center!important; 
+    margin-top: 30px; 
 }
 
 .educationsub {
@@ -243,7 +249,7 @@ ul li {
 .panel-footer {
     background-color: #d3d3d3; 
     font-size: smaller; 
-    border-top: 2px solid #0abab5; 
+    border-top: 1px solid #0abab5; 
     margin-top: 120px; 
 }
 
