@@ -276,9 +276,15 @@ ul li {
 
 .carousel-inner img {
     width: 100%; 
-    margin: auto; 
+    margin: auto;
+
+    /* -webkit-filter: none; 
+    filter: none; */
+}
+
+.carousel-inner img:hover {
     -webkit-filter: none; 
-    filter: none;
+    filter: none; 
 }
 
  .blog-nav {
@@ -308,6 +314,8 @@ blockquote {
 .blogsection4 {
     margin-top: 100px; 
 }
+
+]
 
 /**********CONTACT PAGE****************/    
 
@@ -503,6 +511,25 @@ p {
 
 ul li {
     margin-right: 0; 
+}
+
+/*****BLOG**********/
+
+.img-thumbnail {
+    -webkit-filter: grey; 
+    filter: grey; 
+}
+
+.img-thumbnail:hover {
+    -webkit-filter: none; 
+    filter: none; 
+}
+
+.form-submit {
+   
+    
+}
+
 }
 
 /*******************DESK TOP *******************************/
