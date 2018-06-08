@@ -3,7 +3,7 @@
 @media screen and (min-width: 769px){
 
     .row1 {
-        display: flex; 
+/*         display: flex;  */
         flex-direction: row-reverse;
         border: #0abab5 solid 3px; 
         
