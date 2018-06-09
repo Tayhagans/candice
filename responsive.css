@@ -320,8 +320,9 @@ blockquote {
 /**********CONTACT PAGE****************/    
 
 .contact-head {
-    padding-top: 120px; 
+    padding-top: 160px !important; 
     font-size: medium; 
+  
 }
 
 
